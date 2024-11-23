@@ -8,4 +8,11 @@ export default defineConfig({
     exclude: ['lucide-react'],
   },
   base: '/Music102FinalProject/',
+  build: {
+    rollupOptions: {
+      output: {
+        inlineDynamicImports: false,
+      },
+    },
+  },
 });
