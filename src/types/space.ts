@@ -5,7 +5,6 @@ export interface Space {
   type: SpaceType;
   name: string;
   description: string;
-  imageUrl: string;
   color: string;
   instrument?: string;
   position: number;

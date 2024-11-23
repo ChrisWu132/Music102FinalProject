@@ -46,7 +46,6 @@ export const SpaceCard: React.FC<SpaceCardProps> = ({ space, onClose }) => {
                 <p className="text-xl text-indigo-700">
                   Try making some sounds like the {space.instrument}! Can you imagine what it sounds like?
                 </p>
-                <div className="mt-4 h-32 bg-white/50 rounded-lg"></div>
               </div>
             )}
           </div>
