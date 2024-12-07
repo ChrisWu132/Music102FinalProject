@@ -18,7 +18,7 @@ export const spaces: Space[] = [
     instrument: 'Kora',
     position: 1,
     imageUrl: 'https://images.unsplash.com/photo-1516814537483-797cf05b8ce7',
-    videoLink: 'https://www.youtube.com/watch?v=0fCWgqCGd8Y',
+    videoLink: 'https://www.youtube.com/watch?v=pa2Ud9GBqKI',
     audioClip: '/audio/west-africa.mp3',
     coordinates: { x: 45, y: 45 }
   },
@@ -30,7 +30,7 @@ export const spaces: Space[] = [
     color: '#FF7F50',
     instrument: 'Sitar',
     position: 2,
-    videoLink: 'https://www.youtube.com/watch?v=2KZlpA3t5hI'
+    videoLink: 'https://www.youtube.com/watch?v=pbppaMT7-5s'
   },
   {
     id: 'japan',
@@ -50,7 +50,7 @@ export const spaces: Space[] = [
     color: '#4DB6AC',
     instrument: 'Berimbau',
     position: 4,
-    videoLink: 'https://www.youtube.com/watch?v=6Nl48l1oCZU'
+    videoLink: 'https://www.youtube.com/watch?v=GI6_eQy-OuI'
   },
   {
     id: 'ireland',
@@ -60,7 +60,7 @@ export const spaces: Space[] = [
     color: '#66BB6A',
     instrument: 'Fiddle',
     position: 5,
-    videoLink: 'https://www.youtube.com/watch?v=PS8AB3B-crE'
+    videoLink: 'https://www.youtube.com/watch?v=Y7QcOUlcIyw'
   },
   {
     id: 'spain',
@@ -70,7 +70,7 @@ export const spaces: Space[] = [
     color: '#EF5350',
     instrument: 'Castanets',
     position: 6,
-    videoLink: 'https://www.youtube.com/watch?v=2s_YN_ipBhE'
+    videoLink: 'https://www.youtube.com/watch?v=6GgNWIu5ep4'
   },
   {
     id: 'china',
@@ -80,7 +80,7 @@ export const spaces: Space[] = [
     color: '#EC407A',
     instrument: 'Erhu',
     position: 7,
-    videoLink: 'https://www.youtube.com/watch?v=3X9LvC9WkkQ'
+    videoLink: 'https://www.youtube.com/watch?v=7fdFGEg-9R8'
   },
   {
     id: 'egypt',
@@ -90,7 +90,7 @@ export const spaces: Space[] = [
     color: '#FFA726',
     instrument: 'Qanun',
     position: 8,
-    videoLink: 'https://www.youtube.com/watch?v=T6qLKSZ3_Cw'
+    videoLink: 'https://www.youtube.com/watch?v=mdMygnUBMns'
   },
   {
     id: 'australia',
@@ -110,7 +110,7 @@ export const spaces: Space[] = [
     color: '#7E57C2',
     instrument: 'Balalaika',
     position: 10,
-    videoLink: 'https://www.youtube.com/watch?v=4Nx8BTQzZB8'
+    videoLink: 'https://www.youtube.com/watch?v=qn06W-iBfkQ'
   },
   {
     id: 'mexico',
@@ -120,7 +120,7 @@ export const spaces: Space[] = [
     color: '#8D6E63',
     instrument: 'Vihuela',
     position: 11,
-    videoLink: 'https://www.youtube.com/watch?v=klVe7_2UEQ8'
+    videoLink: 'https://www.youtube.com/watch?v=tZ4mjyeTuTo'
   },
   {
     id: 'greece',
@@ -130,7 +130,7 @@ export const spaces: Space[] = [
     color: '#42A5F5',
     instrument: 'Bouzouki',
     position: 12,
-    videoLink: 'https://www.youtube.com/watch?v=3X9LvC9WkkQ'
+    videoLink: 'https://www.youtube.com/watch?v=UhYwESAZr-c&list=PLzpY9zu2u1uJchyf-hT9RxDIsa-LqKs5W'
   },
   {
     id: 'morocco',
@@ -140,7 +140,7 @@ export const spaces: Space[] = [
     color: '#FF7043',
     instrument: 'Oud',
     position: 13,
-    videoLink: 'https://www.youtube.com/watch?v=N6aCL1qZKvY'
+    videoLink: 'https://www.youtube.com/watch?v=woHn-9GZipw'
   },
   {
     id: 'peru',
@@ -150,7 +150,7 @@ export const spaces: Space[] = [
     color: '#9CCC65',
     instrument: 'Zampona',
     position: 14,
-    videoLink: 'https://www.youtube.com/watch?v=5GwOqgPUMLU'
+    videoLink: 'https://www.youtube.com/watch?v=qsNEu750zok'
   },
   {
     id: 'korea',
@@ -160,7 +160,7 @@ export const spaces: Space[] = [
     color: '#AB47BC',
     instrument: 'Gayageum',
     position: 15,
-    videoLink: 'https://www.youtube.com/watch?v=9ZTxKqTw06g'
+    videoLink: 'https://www.youtube.com/watch?v=l07AsF8U4B8'
   },
   {
     id: 'argentina',
@@ -170,7 +170,7 @@ export const spaces: Space[] = [
     color: '#26C6DA',
     instrument: 'Bandoneón',
     position: 16,
-    videoLink: 'https://www.youtube.com/watch?v=nqaQZgWdf94'
+    videoLink: 'https://www.youtube.com/watch?v=1-V1JTCaikM&list=PLL9NadrkucwLELARWIyxyP6acx8HU3b3n'
   },
   {
     id: 'turkey',
@@ -180,7 +180,7 @@ export const spaces: Space[] = [
     color: '#FF8A65',
     instrument: 'Saz',
     position: 17,
-    videoLink: 'https://www.youtube.com/watch?v=HZv8UFp-LGc'
+    videoLink: 'https://www.youtube.com/watch?v=0hrYPeGeJFw'
   },
   {
     id: 'scotland',
@@ -200,7 +200,7 @@ export const spaces: Space[] = [
     color: '#66BB6A',
     instrument: 'Đàn bầu',
     position: 19,
-    videoLink: 'https://www.youtube.com/watch?v=8Vp7TmTfVZg'
+    videoLink: 'https://www.youtube.com/watch?v=G_ZMrcGUMro'
   },
   {
     id: 'hungary',
@@ -210,7 +210,7 @@ export const spaces: Space[] = [
     color: '#FF4081',
     instrument: 'Cimbalom',
     position: 20,
-    videoLink: 'https://www.youtube.com/watch?v=dq0_G4K5WU4'
+    videoLink: 'https://www.youtube.com/watch?v=0mR0_nFTato'
   },
   {
     id: 'indonesia',
@@ -220,7 +220,7 @@ export const spaces: Space[] = [
     color: '#FFA000',
     instrument: 'Angklung',
     position: 21,
-    videoLink: 'https://www.youtube.com/watch?v=4KQJZ9P_HDw'
+    videoLink: 'https://www.youtube.com/watch?v=9yeEBoiQaN4'
   },
   {
     id: 'jamaica',
@@ -230,6 +230,6 @@ export const spaces: Space[] = [
     color: '#43A047',
     instrument: 'Steel Drums',
     position: 22,
-    videoLink: 'https://www.youtube.com/watch?v=g5RMcqBnvJI'
+    videoLink: 'https://www.youtube.com/watch?v=EQEWokLgzPY'
   }
 ];
