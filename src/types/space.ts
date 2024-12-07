@@ -8,4 +8,11 @@ export interface Space {
   color: string;
   instrument?: string;
   position: number;
+  imageUrl?: string;
+  videoLink?: string;
+  audioClip?: string;
+  coordinates?: {
+    x: number;
+    y: number;
+  };
 }
